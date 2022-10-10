@@ -1,0 +1,50 @@
+[
+    {
+        "category": "NAME",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU"
+        ]
+    },
+    {
+        "category": "HEALTH",
+        "purposes": [
+            "DEVELOPERS_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU",
+            "DATA_USED_TO_TRACK_YOU"
+        ]
+    },
+    {
+        "category": "FITNESS",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU",
+            "DATA_USED_TO_TRACK_YOU"
+        ]
+    },
+    {
+        "category": "OTHER_FINANCIAL_INFO",
+        "purposes": [
+            "DEVELOPERS_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU",
+            "DATA_USED_TO_TRACK_YOU"
+        ]
+    },
+    {
+        "category": "PRECISE_LOCATION",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU"
+        ]
+    }
+]
